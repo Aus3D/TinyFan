@@ -1,0 +1,13 @@
+Bill of Material for 
+On 09-Aug-15 at 10:15:59 PM
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ Comment             OSHW-LOGO-S      1    Designator25                                      
+ DIODE_75V_500mW     SOD323           2    D1, D2                       Diode SMD 300mA 0.5W SOD323 
+ Header 2X2          HDR2X2           1    P1                           Header, 2-Pin, Dual row 
+ Header 3X2          HDR2X3           1    P2                           Header, 3-Pin, Dual row 
+ MOSFET_AO4818B      SOIC127P600X175-8AN    1    Q1                           MOSFET Dual-Channel 30V 8.5A SOIC-8 SMD 
+ Red                 LED-0603-RED     2    LED1, LED2                   LED 0603 SMD Hyper Red 630nm 220mcd 20mA 
+ Standard 2-pin 0.1" header. Use with  - straight break away headers ( PRT-00116) - right angle break away headers (PRT-00553) - swiss pins (PRT-00743) - machine pins (PRT-00117) - female headers (PRT-00115)   Molex polarized connector foot print use with: PRT-08233 with associated crimp pins and housings.  2.54_SCREWTERM for use with  PRT-10571.  3.5mm Screw Terminal footprints for  PRT-08084  5mm Screw Terminal footprints for use with PRT-08432 1X02_2.54_SCREWTERM    1    JP1                                               
+ Thick Film          RESC1608X55N     2    R1, R2                       Resistor SMD chip 330 Ohm 0.1W 5% 0603 

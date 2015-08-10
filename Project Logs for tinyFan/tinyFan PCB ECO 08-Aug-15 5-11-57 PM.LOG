@@ -1,0 +1,25 @@
+Added Component: Designator=JP1(1X02_2.54_SCREWTERM)
+Added Component: Designator=P1(HDR2X2)
+Added Component: Designator=Q1(SOIC127P600X175-8AN)
+Added Pin To Net: NetName=12V Pin=JP1-P2
+Added Pin To Net: NetName=12V Pin=P1-1
+Added Pin To Net: NetName=12V Pin=P1-3
+Added Net: Name=12V
+Added Pin To Net: NetName=FAN1_PWM Pin=Q1-2
+Added Net: Name=FAN1_PWM
+Added Pin To Net: NetName=FAN1 Pin=P1-2
+Added Pin To Net: NetName=FAN1 Pin=Q1-7
+Added Pin To Net: NetName=FAN1 Pin=Q1-8
+Added Net: Name=FAN1
+Added Pin To Net: NetName=FAN2_PWM Pin=Q1-4
+Added Net: Name=FAN2_PWM
+Added Pin To Net: NetName=FAN2 Pin=P1-4
+Added Pin To Net: NetName=FAN2 Pin=Q1-5
+Added Pin To Net: NetName=FAN2 Pin=Q1-6
+Added Net: Name=FAN2
+Added Pin To Net: NetName=GND Pin=JP1-P1
+Added Pin To Net: NetName=GND Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Net: Name=GND
+Added Class: Name=tinyFan
+Added Room: Name=tinyFan

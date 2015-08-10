@@ -1,0 +1,12 @@
+Designator,Footprint,Mid X,Mid Y,Ref X,Ref Y,Pad X,Pad Y,Layer,Rotation,Comment
+,,,,,,,,,,
+D2,SOD323,6.75mm,7.25mm,6.75mm,7.25mm,8mm,7.25mm,T,0,DIODE_75V_500mW
+D1,SOD323,2.75mm,7.25mm,2.75mm,7.25mm,4mm,7.25mm,T,0,DIODE_75V_500mW
+R2,RESC1608X55N,2.5mm,2.25mm,2.5mm,2.25mm,1.65mm,2.25mm,T,0,Thick Film
+R1,RESC1608X55N,2.5mm,4.75mm,2.5mm,4.75mm,1.65mm,4.75mm,T,0,Thick Film
+LED2,LED-0603-RED,6.5mm,2.25mm,6.5mm,2.25mm,5.65mm,2.25mm,T,360,Red
+LED1,LED-0603-RED,6.5mm,4.75mm,6.5mm,4.75mm,5.65mm,4.75mm,T,360,Red
+JP1,1X02_2.54_SCREWTERM,4mm,12.02mm,4mm,10.75mm,4mm,13.29mm,T,90,Facing Out from board
+P1,HDR2X2,12.23mm,3.52mm,13.5mm,2.25mm,13.5mm,2.25mm,T,90,Header 2X2
+Q1,SOIC127P600X175-8AN,4.5mm,5mm,4.5mm,5mm,7.2mm,6.905mm,B,180,MOSFET_AO4818B
+P2,HDR2X3,12.27mm,10.96mm,5mm,3.5mm,11mm,13.5mm,T,270,Header 3X2

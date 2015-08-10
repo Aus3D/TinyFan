@@ -1,0 +1,8 @@
+Added Component: Designator=D1(SOD323)
+Added Component: Designator=D2(SOD323)
+Added Pin To Net: NetName=FAN2 Pin=D1-A
+Added Pin To Net: NetName=12V Pin=D1-K
+Added Pin To Net: NetName=FAN1 Pin=D2-A
+Added Pin To Net: NetName=12V Pin=D2-K
+Added Member To Class: ClassName=tinyFan Member=Component D1 DIODE_75V_500mW
+Added Member To Class: ClassName=tinyFan Member=Component D2 DIODE_75V_500mW

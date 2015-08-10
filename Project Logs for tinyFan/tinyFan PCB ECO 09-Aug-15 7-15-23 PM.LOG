@@ -1,0 +1,18 @@
+Added Component: Designator=LED1(LED-0603-RED)
+Added Component: Designator=LED2(LED-0603-RED)
+Added Component: Designator=R1(RESC1608X55N)
+Added Component: Designator=R2(RESC1608X55N)
+Added Pin To Net: NetName=FAN1 Pin=LED1-K
+Added Pin To Net: NetName=FAN2 Pin=LED2-K
+Added Pin To Net: NetName=12V Pin=R1-1
+Added Pin To Net: NetName=12V Pin=R2-1
+Added Pin To Net: NetName=NetLED1_A Pin=LED1-A
+Added Pin To Net: NetName=NetLED1_A Pin=R1-2
+Added Net: Name=NetLED1_A
+Added Pin To Net: NetName=NetLED2_A Pin=LED2-A
+Added Pin To Net: NetName=NetLED2_A Pin=R2-2
+Added Net: Name=NetLED2_A
+Added Member To Class: ClassName=tinyFan Member=Component LED1 Red
+Added Member To Class: ClassName=tinyFan Member=Component LED2 Red
+Added Member To Class: ClassName=tinyFan Member=Component R1 Thick Film
+Added Member To Class: ClassName=tinyFan Member=Component R2 Thick Film
