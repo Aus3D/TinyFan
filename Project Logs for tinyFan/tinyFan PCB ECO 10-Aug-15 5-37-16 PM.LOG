@@ -1,0 +1,4 @@
+Added Component: Designator=JP1(1X02_2.54_SCREWTERM)
+Added Pin To Net: NetName=GND Pin=JP1-P1
+Added Pin To Net: NetName=12V Pin=JP1-P2
+Added Member To Class: ClassName=tinyFan Member=Component JP1 Standard 2-pin 0.1" header. Use with  - straight break away headers ( PRT-00116) - right angle break away headers (PRT-00553) - swiss pins (PRT-00743) - machine pins (PRT-00117) - female headers (PRT-00115)   Molex polarized connector foot print use with: PRT-08233 with associated crimp pins and housings.  2.54_SCREWTERM for use with  PRT-10571.  3.5mm Screw Terminal footprints for  PRT-08084  5mm Screw Terminal footprints for use with PRT-08432
