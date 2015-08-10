@@ -1,3 +1,4 @@
 *.Zip
 *.PcbDocPreview
 __Previews/tinyFan.SchDocPreview
+*.db
