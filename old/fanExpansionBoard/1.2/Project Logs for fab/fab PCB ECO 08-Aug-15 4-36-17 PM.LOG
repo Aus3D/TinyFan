@@ -1,0 +1,26 @@
+Added Component: Designator=P7(HDR2X3)
+Added Pin To Net: NetName=SCK Pin=P7-1
+Added Pin To Net: NetName=GND Pin=P7-2
+Added Pin To Net: NetName=THERM1 Pin=P7-3
+Added Pin To Net: NetName=GND Pin=P7-4
+Added Pin To Net: NetName=THERM2 Pin=P7-5
+Added Pin To Net: NetName=GND Pin=P7-6
+Added Member To Class: ClassName=fab Member=Component C1 100n
+Added Member To Class: ClassName=fab Member=Component LED1 Red
+Added Member To Class: ClassName=fab Member=Component LED2 Red
+Added Member To Class: ClassName=fab Member=Component LED3 Red
+Added Member To Class: ClassName=fab Member=Component LED4 Red
+Added Member To Class: ClassName=fab Member=Component P1 Fans
+Added Member To Class: ClassName=fab Member=Component P2 Header 8
+Added Member To Class: ClassName=fab Member=Component P3 Header 8
+Added Member To Class: ClassName=fab Member=Component P4 Header 2
+Added Member To Class: ClassName=fab Member=Component P5 ICSP
+Added Member To Class: ClassName=fab Member=Component P6 Thermistor Pins
+Added Member To Class: ClassName=fab Member=Component P7 Header 3X2
+Added Member To Class: ClassName=fab Member=Component Q1 MOSFET_AO4818B
+Added Member To Class: ClassName=fab Member=Component Q2 MOSFET_AO4818B
+Added Member To Class: ClassName=fab Member=Component R1 Thick Film
+Added Member To Class: ClassName=fab Member=Component R2 Thick Film
+Added Member To Class: ClassName=fab Member=Component R3 Thick Film
+Added Member To Class: ClassName=fab Member=Component R4 Thick Film
+Added Member To Class: ClassName=fab Member=Component U1 ATtiny45-20SU

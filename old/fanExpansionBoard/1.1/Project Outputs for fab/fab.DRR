@@ -1,0 +1,17 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: fab.PcbDoc   7/25/2015  5:02:18 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : fab.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.6mm (23.622mil)        Round          16               61.13 mm (2.41 Inch)
+T2        0.7112mm (28mil)         Round          4                13.17 mm (0.52 Inch)
+T3        0.762mm (30mil)          Round          1                0.00 mm (0.00 Inch)
+T4        0.9mm (35.433mil)        Round          32               100.77 mm (3.97 Inch)
+---------------------------------------------------------------------------
+Totals                                            53               175.07 mm (6.89 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

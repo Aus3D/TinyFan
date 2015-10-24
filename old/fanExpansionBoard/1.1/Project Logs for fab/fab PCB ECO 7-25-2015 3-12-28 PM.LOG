@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=12V Pin=P7-1
+Removed Pin From Net: NetName=GND Pin=P7-2
+Removed Member From Class: ClassName=fab Member=P7
+Added Pin To Net: NetName=GND Pin=P6-1

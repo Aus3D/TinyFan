@@ -1,0 +1,15 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: AFC1.PcbDoc   7/13/2015  10:18:05 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : AFC1.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.711mm (27.992mil)      Round          5                35.43 mm (1.40 Inch)
+T2        0.9mm (35.433mil)        Round          34               140.29 mm (5.52 Inch)
+---------------------------------------------------------------------------
+Totals                                            39               175.72 mm (6.92 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,48 @@
+Added Component: Designator=C1(CAPC1005X55N)
+Added Component: Designator=P?(HDR2X3)
+Added Component: Designator=P?(HDR2X3)
+Added Component: Designator=P?(HDR1X6)
+Added Component: Designator=Q1(SOIC127P600X175-8AN)
+Added Component: Designator=U?(8S2_N)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=5V Pin=C1-2
+Added Pin To Net: NetName=12V Pin=P?-1
+Added Pin To Net: NetName=FAN3_PWM Pin=P?-1
+Added Pin To Net: NetName=GND Pin=P?-1
+Added Pin To Net: NetName=5V Pin=P?-2
+Added Pin To Net: NetName=FAN1&2 Pin=P?-2
+Added Pin To Net: NetName=12V Pin=P?-3
+Added Pin To Net: NetName=GND Pin=P?-3
+Added Pin To Net: NetName=FAN1&2 Pin=P?-4
+Added Pin To Net: NetName=FAN1+2 PWM Pin=P?-4
+Added Pin To Net: NetName=THERM1 Pin=P?-4
+Added Pin To Net: NetName=12V Pin=P?-5
+Added Pin To Net: NetName=GND Pin=P?-5
+Added Pin To Net: NetName=FAN3 Pin=P?-6
+Added Pin To Net: NetName=GND Pin=P?-6
+Added Pin To Net: NetName=THERM2 Pin=P?-6
+Added Pin To Net: NetName=GND Pin=Q1-1
+Added Pin To Net: NetName=FAN3_PWM Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=FAN1+2 PWM Pin=Q1-4
+Added Pin To Net: NetName=FAN1&2 Pin=Q1-5
+Added Pin To Net: NetName=FAN1&2 Pin=Q1-6
+Added Pin To Net: NetName=FAN3 Pin=Q1-7
+Added Pin To Net: NetName=FAN3 Pin=Q1-8
+Added Pin To Net: NetName=THERM2 Pin=U?-2
+Added Pin To Net: NetName=THERM1 Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Pin To Net: NetName=FAN1+2 PWM Pin=U?-5
+Added Pin To Net: NetName=FAN3_PWM Pin=U?-6
+Added Pin To Net: NetName=5V Pin=U?-8
+Added Pin To Net: NetName=RESET Pin=P?-5
+Added Pin To Net: NetName=RESET Pin=U?-1
+Added Net: Name=RESET
+Added Pin To Net: NetName=SCK Pin=P?-2
+Added Pin To Net: NetName=SCK Pin=P?-3
+Added Pin To Net: NetName=SCK Pin=U?-7
+Added Net: Name=SCK
+Added Member To Class: ClassName=AFC1 Member=Component C1 100n
+Added Member To Class: ClassName=AFC1 Member=Component P? ICSP
+Added Member To Class: ClassName=AFC1 Member=Component Q1 MOSFET_AO4818B
+Added Member To Class: ClassName=AFC1 Member=Component U? ATtiny45-20SU

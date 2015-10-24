@@ -1,0 +1,20 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [AFC.PrjPCB]
+   Generated File[AFC1.GTL]
+   Generated File[AFC1.GBL]
+   Generated File[AFC1.GTO]
+   Generated File[AFC1.GTP]
+   Generated File[AFC1.GTS]
+   Generated File[AFC1.GBS]
+   Generated File[AFC1.GBO]
+   Generated File[AFC1.GKO]
+   Generated File[AFC1.RUL]
+   Generated File[AFC1.EXTREP]
+   Generated File[AFC1.REP]
+
+
+Files Generated   : 11
+Documents Printed : 0
+
+Finished Output Generation At 10:20:33 PM On 7/13/2015

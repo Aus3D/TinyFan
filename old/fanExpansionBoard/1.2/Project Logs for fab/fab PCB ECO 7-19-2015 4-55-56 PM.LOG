@@ -1,0 +1,12 @@
+Added Component: Designator=P5(ICSP Pads)
+Added Component: Designator=P7(HDR1X2)
+Added Pin To Net: NetName=FAN3_PWM Pin=P5-1
+Added Pin To Net: NetName=5V Pin=P5-2
+Added Pin To Net: NetName=SCK Pin=P5-3
+Added Pin To Net: NetName=FAN4_PWM Pin=P5-4
+Added Pin To Net: NetName=RESET Pin=P5-5
+Added Pin To Net: NetName=12V Pin=P7-1
+Added Pin To Net: NetName=GND Pin=P7-2
+Added Member To Class: ClassName=fab Member=Component P4 Header 2
+Added Member To Class: ClassName=fab Member=Component P5 ICSP
+Added Member To Class: ClassName=fab Member=Component P7 12V AUX
