@@ -1,7 +1,0 @@
-Change Component Designator: OldDesignator=POWER NewDesignator=JP1
-Added Component: Designator=P2(HDR2X3)
-Added Pin To Net: NetName=FAN1_PWM Pin=P2-1
-Added Pin To Net: NetName=FAN2_PWM Pin=P2-2
-Added Pin To Net: NetName=GND Pin=P2-5
-Added Pin To Net: NetName=GND Pin=P2-6
-Added Member To Class: ClassName=tinyFan Member=Component P2 Header 3X2

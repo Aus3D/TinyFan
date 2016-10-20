@@ -1,7 +1,0 @@
-Added Component: Designator=P5(ICSP Pads)
-Added Pin To Net: NetName=FAN3_PWM Pin=P5-1
-Added Pin To Net: NetName=5V Pin=P5-2
-Added Pin To Net: NetName=SCK Pin=P5-3
-Added Pin To Net: NetName=FAN4_PWM Pin=P5-4
-Added Pin To Net: NetName=RESET Pin=P5-5
-Added Member To Class: ClassName=fab Member=Component P5 ICSP
